@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314955332200",
+    "project_id": "homefit-2eca4",
+    "storage_bucket": "homefit-2eca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314955332200:android:daf726f8d65af4ac7b99dd",
+        "android_client_info": {
+          "package_name": "com.homefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314955332200-1dmdffbfv5blta7f7p65h2b6eaqnm9d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB47IeqzczMgdpJ7SCc9FYoZjZskcvSvu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314955332200-1dmdffbfv5blta7f7p65h2b6eaqnm9d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
